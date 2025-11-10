@@ -5,6 +5,8 @@ import org.slf4j.Logger;
 import org.springaicommunity.mcp.annotation.McpTool;
 import org.springframework.stereotype.Component;
 
+
+// MCP Tool class
 @Component
 public class McpTools {
 
